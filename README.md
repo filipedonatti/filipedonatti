@@ -2,3 +2,4 @@
 - 👀 I’m interested in Artificial Intelligence, Software Developing, and Technology--I'm really interested in technology.
 - 🌱 I’m currently learning all I need to become a Full Stack Developer, Data Analyst and an exemplary human being.
 - 💞️ I’m looking to collaborate on developing programs for machine learning and data management.
+- 📑 Documentation side project (Postman): https://universal-astronaut-922941.postman.co/workspace/Api-Documentation-test~66647e9d-b2a4-419b-88e0-7417ca1e2b44/collection/19971646-bfe6e25e-b2bc-4b17-9212-d21dff25cd9c?ctx=documentation
