@@ -6,8 +6,8 @@ function incrementNum() {
     console.log(startingNum);
     if(startingNum === 100)
         {
-            clearInterval(incrementNum);
-           return startingNum = 0;
+           clearInterval(incrementNum);
+           startingNum = 1;
         }
 
     document.getElementById('counter').innerHTML = startingNum;
