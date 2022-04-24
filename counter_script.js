@@ -1,16 +1,16 @@
 
 var startingNum = 1;
-var el = document.getElementById('counter');
 
 function incrementNum() {
     startingNum ++;
-
-    if(startingNum === 99)
+    console.log(startingNum);
+    if(startingNum === 100)
         {
-           return startingNum = 1;
+            clearInterval(incrementNum);
+           return startingNum = 0;
         }
 
     document.getElementById('counter').innerHTML = startingNum;
-    window.setInterval(incrementNum, 1000);
-
+    console.log(startingNum);
 }
+window.setInterval(incrementNum, 1000);
