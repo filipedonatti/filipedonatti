@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Filipe Donatti @filipedonatti;
-- 👀 I'm Passionate about Machine Learning, Software Engineering (albeit I have not engineered a software yet.
+- 👀 I'm Passionate about Machine Learning--with. Python and TensorFlow, Software Engineering--with Typescript and Nodejs, albeit I have not engineered a software yet.
 - 🌱 I’m currently learning how to develop robust APIs with automized tests, how to code smart bots to execute specific services on the WWW and how to become a better human being.
 - 🎯 I’m looking to collaborate and develop programs for machine learning and data management.
 - 📑 Documentation side project (Postman): https://universal-astronaut-922941.postman.co/workspace/Api-Documentation-test~66647e9d-b2a4-419b-88e0-7417ca1e2b44/collection/19971646-bfe6e25e-b2bc-4b17-9212-d21dff25cd9c?ctx=documentation
